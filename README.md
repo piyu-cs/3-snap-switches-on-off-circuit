@@ -37,7 +37,6 @@ The cycle then repeats from the beginning.
 - Resistors
 - Capacitors
 - Diodes
-- Relay / Switching components (if applicable)
 - LED / Lamp
 - Power Supply
 
@@ -73,7 +72,7 @@ The cycle then repeats from the beginning.
 ### Third Snap
 - Light OFF
 
-*(Project images can be added here.)*
+
 
 ---
 
@@ -86,7 +85,7 @@ The repository includes demonstration videos showing the circuit operation.
 ## 🔧 Software Used
 
 - Proteus Professional
-- PCB Design Tools
+- EASYEDA software
 
 ---
 
