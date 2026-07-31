@@ -112,7 +112,7 @@ The repository includes demonstration videos showing the circuit operation.
 
 ## 👨‍💻 Author
 
-**Piyumal Bimsara**
+**Piyumal sandaruwan**
 
 Electrical and Electronic Engineering Undergraduate
 
